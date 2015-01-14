@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  14 JAN 2015 23:02
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  14 JAN 2015 23:31
 entering extended mode
 **Cahier_v2.tex
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.tex"
@@ -180,18 +180,9 @@ Package: inputenc 2008/03/30 v1.1d Input encoding file
 \inpenc@prehook=\toks15
 \inpenc@posthook=\toks16
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\utf8x.def"
-File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
-)) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucs.sty"
-Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
- ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\uni-global.def"
-File: uni-global.def 2013/05/13 UCS: Unicode global data
-)
-\uc@secondtry=\count101
-\uc@combtoks=\toks17
-\uc@combtoksb=\toks18
-\uc@temptokena=\toks19
-)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ansinew.def"
+File: ansinew.def 2008/03/30 v1.1d Input encoding file
+))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\fontenc.sty"
 Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 
@@ -224,14 +215,14 @@ Package color Info: Driver file: pdftex.def on input line 130.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
 File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
-\Gread@gobject=\count102
+\Gread@gobject=\count101
 ))
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
 Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count103
-\float@exts=\toks20
+\c@float@type=\count102
+\float@exts=\toks17
 \float@box=\box27
-\@float@everytoks=\toks21
+\@float@everytoks=\toks18
 \@floatcapt=\box28
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\tabularx.sty"
@@ -241,7 +232,7 @@ Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \col@sep=\dimen110
 \extrarowheight=\dimen111
-\NC@list=\toks22
+\NC@list=\toks19
 \extratabsurround=\skip53
 \backup@length=\skip54
 )
@@ -250,8 +241,8 @@ Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
 \TX@old@col=\dimen114
 \TX@target=\dimen115
 \TX@delta=\dimen116
-\TX@cols=\count104
-\TX@ftn=\toks23
+\TX@cols=\count103
+\TX@ftn=\toks20
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
 Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
@@ -271,23 +262,23 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 \Gin@req@width=\dimen118
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.sty"
-\lst@mode=\count105
+\lst@mode=\count104
 \lst@gtempboxa=\box29
-\lst@token=\toks24
-\lst@length=\count106
+\lst@token=\toks21
+\lst@length=\count105
 \lst@currlwidth=\dimen119
-\lst@column=\count107
-\lst@pos=\count108
+\lst@column=\count106
+\lst@pos=\count107
 \lst@lostspace=\dimen120
 \lst@width=\dimen121
-\lst@newlines=\count109
-\lst@lineno=\count110
+\lst@newlines=\count108
+\lst@lineno=\count109
 \lst@maxwidth=\dimen122
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\lstmisc.sty"
 File: lstmisc.sty 2014/09/06 1.5e (Carsten Heinz)
-\c@lstnumber=\count111
-\lst@skipnumbers=\count112
+\c@lstnumber=\count110
+\lst@skipnumbers=\count111
 \lst@framebox=\box30
 )
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\listings\listings.cfg"
@@ -298,29 +289,29 @@ Package: listings 2014/09/06 1.5e (Carsten Heinz)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\filecontents\filecontents.sty"
 Package: filecontents 2011/10/08 v1.3 Create an external file from within a LaTeX document
 )
-Package color Info: Redefining color blue on input line 16.
-Package color Info: Redefining color red on input line 17.
+Package color Info: Redefining color blue on input line 17.
+Package color Info: Redefining color red on input line 18.
 
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.aux")
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 30.
-LaTeX Font Info:    ... okay on input line 30.
-LaTeX Info: Redefining \degres on input line 30.
-LaTeX Info: Redefining \dots on input line 30.
-LaTeX Info: Redefining \up on input line 30.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 31.
+LaTeX Font Info:    ... okay on input line 31.
+LaTeX Info: Redefining \degres on input line 31.
+LaTeX Info: Redefining \dots on input line 31.
+LaTeX Info: Redefining \up on input line 31.
 \AtBeginShipoutBox=\box31
-Package hyperref Info: Link coloring ON on input line 30.
+Package hyperref Info: Link coloring ON on input line 31.
 
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
 Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
@@ -328,138 +319,155 @@ Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
 Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
 )
-\c@section@level=\count113
+\c@section@level=\count112
 )
-LaTeX Info: Redefining \ref on input line 30.
-LaTeX Info: Redefining \pageref on input line 30.
-LaTeX Info: Redefining \nameref on input line 30.
+LaTeX Info: Redefining \ref on input line 31.
+LaTeX Info: Redefining \pageref on input line 31.
+LaTeX Info: Redefining \nameref on input line 31.
 
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.out")
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.out")
 \@outlinefile=\write3
 
-("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ucs\ucsencs.def"
-File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
-)
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count114
+\scratchcounter=\count113
 \scratchdimen=\dimen123
 \scratchbox=\box32
-\nofMPsegments=\count115
-\nofMParguments=\count116
-\everyMPshowfont=\toks25
-\MPscratchCnt=\count117
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks22
+\MPscratchCnt=\count116
 \MPscratchDim=\dimen124
-\MPnumerator=\count118
-\makeMPintoPDFobject=\count119
-\everyMPtoPDFconversion=\toks26
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks23
 )
-\c@lstlisting=\count120
+\c@lstlisting=\count119
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <20> not available
-(Font)              size <20.74> substituted on input line 39.
+(Font)              size <20.74> substituted on input line 40.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
-(Font)              size <14.4> substituted on input line 41.
+(Font)              size <14.4> substituted on input line 42.
 
-<Logo.png, id=3, 309.40594pt x 317.68687pt>
+<Logo.png, id=7, 309.40594pt x 317.68687pt>
 File: Logo.png Graphic file (type png)
  <use Logo.png>
-Package pdftex.def Info: Logo.png used on input line 46.
+Package pdftex.def Info: Logo.png used on input line 47.
 (pdftex.def)             Requested size: 309.40518pt x 317.68608pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <16> not available
-(Font)              size <17.28> substituted on input line 53.
+(Font)              size <17.28> substituted on input line 54.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/m/it' in size <16> not available
-(Font)              size <17.28> substituted on input line 54.
+(Font)              size <17.28> substituted on input line 55.
 
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Tessier Fabien/Desktop/Bananas Propellers/Logo.png>]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 77.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 77.
 
-Overfull \hbox (3.98311pt too wide) in paragraph at lines 78--78
- []|\T1/cmr/m/n/12 Tancrede| 
- []
+Package hyperref Warning: old toc file detected, not used; run LaTeX again.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 92.
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--92
-
- []
-
+\tf@toc=\write4
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 22.0pt.
  We now make it that large for the rest of the document.
  This may cause the page layout to be inconsistent, however.
 
-[2]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 92.
- ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 92.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 92.
-Package rerunfilecheck Info: File `Cahier_v2.out' has not changed.
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+[2
 
+]
+Chapitre I.
+[3
+
+]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 99.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 99.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 99.
+
+Overfull \hbox (3.98311pt too wide) in paragraph at lines 100--100
+ []|\T1/cmr/m/n/12 Tancrede| 
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--114
+
+ []
+
+[4]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
+ ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
+
+
+Package rerunfilecheck Warning: File `Cahier_v2.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `Cahier_v2.out':
+(rerunfilecheck)             Before: 61A5DCCF76636266F4E66A28A1F571B8;67
+(rerunfilecheck)             After:  3AA79F597DC62112FE8D8F69EDD7F192;566.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 92.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
  ) 
 Here is how much of TeX's memory you used:
- 7757 strings out of 493921
- 113210 string characters out of 3144849
- 210709 words of memory out of 3000000
- 10968 multiletter control sequences out of 15000+200000
- 11702 words of font info for 30 fonts, out of 3000000 for 9000
+ 7574 strings out of 493921
+ 109334 string characters out of 3144849
+ 197649 words of memory out of 3000000
+ 10778 multiletter control sequences out of 15000+200000
+ 15418 words of font info for 35 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
- 29i,11n,43p,333b,372s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Tessier F
-abien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecti1728.pk> <C:\Users\Tessier Fabien\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecbx2074.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2986.pk>
-Output written on Cahier_v2.pdf (2 pages, 79920 bytes).
+ 29i,11n,43p,216b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk> <C:\Users\Tessier F
+abien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk> <C:\Users\Tessier Fabien\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecti1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users
+\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Tessier Fabien\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecbx2986.pk>
+Output written on Cahier_v2.pdf (4 pages, 115341 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 266 PDF objects out of 1000 (max. 8388607)
+ 14 named destinations out of 1000 (max. 500000)
+ 14 words of extra memory for PDF output out of 10000 (max. 10000000)
 
