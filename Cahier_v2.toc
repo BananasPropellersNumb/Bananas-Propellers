@@ -2,8 +2,8 @@
 \contentsline {chapter}{\numberline {I}\leavevmode {\color {red}\emph {Introduction et Pr\'esentation}}}{3}{chapter.1}
 \contentsline {section}{\numberline {I.1}\leavevmode {\color {blue}Origine du projet}}{3}{section.1.1}
 \contentsline {section}{\numberline {I.2}\leavevmode {\color {blue}Origine du groupe}}{3}{section.1.2}
-\contentsline {section}{\numberline {I.3}\leavevmode {\color {blue}Bananas Propellers: Les membres}}{3}{section.1.3}
-\contentsline {subsection}{\numberline {I.3.1}Tancrede Erulin : \emph {Adlcar}}{3}{subsection.1.3.1}
-\contentsline {subsection}{\numberline {I.3.2}David Lespine : \emph {Horang}}{3}{subsection.1.3.2}
-\contentsline {subsection}{\numberline {I.3.3}Eric Li : \emph {}}{3}{subsection.1.3.3}
-\contentsline {subsection}{\numberline {I.3.4}Fabien Tessier : \emph {Numb}}{3}{subsection.1.3.4}
+\contentsline {section}{\numberline {I.3}\leavevmode {\color {blue}Bananas Propellers: Les membres}}{4}{section.1.3}
+\contentsline {subsection}{\numberline {I.3.1}Tancrede Erulin : \emph {Adlcar}}{4}{subsection.1.3.1}
+\contentsline {subsection}{\numberline {I.3.2}David Lespine : \emph {Horang}}{4}{subsection.1.3.2}
+\contentsline {subsection}{\numberline {I.3.3}Fabien Tessier : \emph {Numb}}{5}{subsection.1.3.3}
+\contentsline {subsection}{\numberline {I.3.4}Eric Li : \emph {The Kid}}{5}{subsection.1.3.4}
