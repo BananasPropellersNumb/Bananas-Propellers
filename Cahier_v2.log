@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  15 JAN 2015 00:00
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  15 JAN 2015 00:17
 entering extended mode
 **Cahier_v2.tex
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.tex"
@@ -353,11 +353,11 @@ LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <20> not available
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <15> not available
 (Font)              size <14.4> substituted on input line 42.
 
-<Logo.png, id=35, 309.40594pt x 317.68687pt>
+<Logo.png, id=47, 309.40594pt x 316.93407pt>
 File: Logo.png Graphic file (type png)
  <use Logo.png>
 Package pdftex.def Info: Logo.png used on input line 47.
-(pdftex.def)             Requested size: 309.40518pt x 317.68608pt.
+(pdftex.def)             Requested size: 309.40518pt x 316.93329pt.
 
 
 LaTeX Font Warning: Font shape `T1/cmr/bx/n' in size <16> not available
@@ -370,10 +370,16 @@ LaTeX Font Warning: Font shape `T1/cmr/m/it' in size <16> not available
 [1
 
 {C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Tessier Fabien/Desktop/Bananas Propellers/Logo.png>]
-
-Package hyperref Warning: old toc file detected, not used; run LaTeX again.
-
+("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.toc"
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 4.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 4.
+)
 \tf@toc=\write4
+
 
 Package Fancyhdr Warning: \headheight is too small (12.0pt): 
  Make it at least 22.0pt.
@@ -386,88 +392,86 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 Chapitre I.
 [3
 
-] [4] [5]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 111.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 111.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 111.
+]
+Chapitre II.
+[4
 
-Overfull \hbox (3.98311pt too wide) in paragraph at lines 112--112
+] [5] [6]
+Chapitre III.
+[7
+
+]
+Overfull \hbox (3.98311pt too wide) in paragraph at lines 120--120
  []|\T1/cmr/m/n/12 Tancrede| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 126.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 111--126
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
 
  []
 
-[6]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 126.
+
+Underfull \hbox (badness 10000) in paragraph at lines 119--134
+
+ []
+
+[8]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
  ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 126.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 126.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package rerunfilecheck Info: File `Cahier_v2.out' has not changed.
+(rerunfilecheck)             Checksum: F18C4235C52D6554922A6E1079122F92;722.
 
-
-Package rerunfilecheck Warning: File `Cahier_v2.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `Cahier_v2.out':
-(rerunfilecheck)             Before: FD0A1FBF7976882745510DE69F41F388;573
-(rerunfilecheck)             After:  3E543D840738C74A6BADF5DB4A653A0E;573.
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 126.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
  ) 
 Here is how much of TeX's memory you used:
- 7585 strings out of 493921
- 109480 string characters out of 3144849
- 197656 words of memory out of 3000000
- 10787 multiletter control sequences out of 15000+200000
- 15418 words of font info for 35 fonts, out of 3000000 for 9000
+ 7605 strings out of 493921
+ 109798 string characters out of 3144849
+ 197674 words of memory out of 3000000
+ 10795 multiletter control sequences out of 15000+200000
+ 18341 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,11n,43p,1096b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi1440.pk> <C:\Users\Tessier F
-abien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk> <C:\Users\Tessier Fabien\AppData\Local\Mi
-KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
-ur\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
-ecti1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1728.pk> <C:\Users
-\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk> <C:\Users\Tessier Fabien\AppDat
-a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fon
-ts\pk\ljfour\jknappen\ec\dpi600\ecbx2986.pk>
-Output written on Cahier_v2.pdf (6 pages, 134574 bytes).
+abien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm0800.pk> <C:\Users\Tessier Fabien\AppData\Local\Mi
+KTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbi2488.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfo
+ur\jknappen\ec\dpi600\ecti1200.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\
+ecbi1200.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1200.pk> <C:\Users
+\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2488.pk> <C:\Users\Tessier Fabien\AppDat
+a\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecrm1200.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fon
+ts\pk\ljfour\jknappen\ec\dpi600\ecti1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\
+ec\dpi600\ecbx1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
+ <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Tessier Fab
+ien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2986.pk>
+Output written on Cahier_v2.pdf (8 pages, 160123 bytes).
 PDF statistics:
- 332 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
- 70 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 429 PDF objects out of 1000 (max. 8388607)
+ 21 named destinations out of 1000 (max. 500000)
+ 94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
