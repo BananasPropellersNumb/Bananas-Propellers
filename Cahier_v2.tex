@@ -1,0 +1,60 @@
+\documentclass[12pt,a4paper]{report}
+\usepackage[frenchb]{babel}
+\usepackage[colorlinks=true, pdfstartview=FitV, linkcolor=black,
+      citecolor=blue, urlcolor=blue]{hyperref}
+\usepackage[utf8x]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{eurosym}
+\usepackage{fancyhdr}
+\usepackage{color}
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\usepackage{listings}
+\usepackage{filecontents}
+
+\definecolor{blue}{rgb}{0.13,0.29,0.46}
+\definecolor{red}{rgb}{1,0,0}
+\definecolor{couleur_titre}{rgb}{0.80, 0.80 , 0}
+\definecolor{couleur_nom}{rgb}{0.11, 0.6, 0.18}
+
+\pagestyle{fancyplain} \chead{}\lhead{\Large{\textit{Cahier des charges}}} \rhead{\Large{\textcolor{couleur_titre}{\textit{Bananas Propellers}}}}
+
+
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash }b{#1}}
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash }b{#1}}
+\newcolumntype{C}[1]{>{\centering\arraybackslash }b{#1}}
+
+\title{Cahier des charges}
+
+\begin{document}
+
+\renewcommand\thechapter{\Roman{chapter}}
+\pagenumbering{arabic}
+\thispagestyle{empty}
+\begin{center}
+{\fontsize{30}{32}{\textbf{\textcolor{red}{Epit'S'cape}}}}
+\par
+\vspace*{0.5cm}
+{\fontsize{20}{24}{\textcolor{blue}{\textbf{Cahier des charges}}}}
+\par
+{\fontsize{15}{18}{\textcolor{couleur_titre}{\textbf{\today}}}}
+\end{center}
+\vspace*{0.5cm}
+
+\begin{tabular}{|R{3.5cm}||C{1.5cm}|C{1.5cm}|C{1.5cm}|C{1.5cm}|}
+\hline  & Tancrede & David & Eric & Fabien\\
+\hline  Gameplay & X & X & X & X \\
+\hline  Musique et Son & X &  &  & X\\
+\hline  IA & X & X & X &   \\
+\hline  Map & X & X &  & X  \\
+\hline  Quetes et Scenario &  & X &  & X\\
+\hline  Physique &  & X &  & X \\
+\hline  Interface & X & X &  &  \\
+\hline  Cinematique &  & X & X &  \\
+\hline  Site Web &  & X & X &  \\
+\hline  Reseaux et Multi & X &  & X &  \\
+\hline  
+\end{tabular}\\ 
+\\\\\\\\\\
+\end{document}
