@@ -1,0 +1,16 @@
+IA
+
+l'ennemi, en fonction de la difficulte, sera de plus en plus affame et dangeureux,  ce qui inclut un pathfinding avance;
+mais les quelques pnj ne disposeront que d'une ia tres basique centree sur les quetes.
+
+Quetes
+
+un certain nombre de quetes permettrons d'avancer dans l'histoire et gagner (ou pas), 
+accompagnees peut-etre de quelques side stories qui permettront de debloquer des features (easter eggs)
+
+interface: 
+un menu principal permettra de lancer/charger des parties, changer de langue,lancer solo ou multi, choisir son nom... 
+un menu in-game pourra modifier certains settings, sauvegarder et quitter une partie
+un HUD avance affichera une barre de vie et un inventaire, et peut-etre une minimap
+
+
