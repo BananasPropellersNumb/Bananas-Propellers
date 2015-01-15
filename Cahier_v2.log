@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  15 JAN 2015 00:17
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (MiKTeX 2.9) (preloaded format=pdflatex 2015.1.13)  15 JAN 2015 01:05
 entering extended mode
 **Cahier_v2.tex
 ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.tex"
@@ -390,6 +390,26 @@ Package Fancyhdr Warning: \headheight is too small (12.0pt):
 
 ]
 Chapitre I.
+
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--88
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 92--94
+
+ []
+
 [3
 
 ]
@@ -401,46 +421,46 @@ Chapitre III.
 [7
 
 ]
-Overfull \hbox (3.98311pt too wide) in paragraph at lines 120--120
+Overfull \hbox (3.98311pt too wide) in paragraph at lines 140--140
  []|\T1/cmr/m/n/12 Tancrede| 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 134.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 154.
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 119--134
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 139--154
 
  []
 
 [8]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 134.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 154.
  ("C:\Users\Tessier Fabien\Desktop\Bananas Propellers\Cahier_v2.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 134.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 134.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 154.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 154.
 Package rerunfilecheck Info: File `Cahier_v2.out' has not changed.
 (rerunfilecheck)             Checksum: F18C4235C52D6554922A6E1079122F92;722.
 
@@ -448,13 +468,13 @@ Package rerunfilecheck Info: File `Cahier_v2.out' has not changed.
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 1.28pt have occurred.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 134.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 154.
  ) 
 Here is how much of TeX's memory you used:
- 7605 strings out of 493921
- 109798 string characters out of 3144849
+ 7609 strings out of 493921
+ 109844 string characters out of 3144849
  197674 words of memory out of 3000000
- 10795 multiletter control sequences out of 15000+200000
+ 10799 multiletter control sequences out of 15000+200000
  18341 words of font info for 39 fonts, out of 3000000 for 9000
  841 hyphenation exceptions out of 8191
  29i,11n,43p,1096b,373s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -469,9 +489,9 @@ ts\pk\ljfour\jknappen\ec\dpi600\ecti1728.pk> <C:\Users\Tessier Fabien\AppData\Lo
 ec\dpi600\ecbx1728.pk> <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx1440.pk>
  <C:\Users\Tessier Fabien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2074.pk> <C:\Users\Tessier Fab
 ien\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi600\ecbx2986.pk>
-Output written on Cahier_v2.pdf (8 pages, 160123 bytes).
+Output written on Cahier_v2.pdf (8 pages, 172107 bytes).
 PDF statistics:
- 429 PDF objects out of 1000 (max. 8388607)
+ 455 PDF objects out of 1000 (max. 8388607)
  21 named destinations out of 1000 (max. 500000)
  94 words of extra memory for PDF output out of 10000 (max. 10000000)
 
