@@ -3,10 +3,21 @@
 \contentsline {chapter}{\numberline {II}\leavevmode {\color {red}\emph {Pr\'esentation}}}{4}{chapter.2}
 \contentsline {section}{\numberline {II.1}\leavevmode {\color {blue}Origine du projet}}{4}{section.2.1}
 \contentsline {section}{\numberline {II.2}\leavevmode {\color {blue}Origine du groupe}}{4}{section.2.2}
-\contentsline {section}{\numberline {II.3}\leavevmode {\color {blue}Bananas Propellers: Les membres}}{5}{section.2.3}
-\contentsline {subsection}{\numberline {II.3.1}Tancrede Erulin : \emph {Adlcar}}{5}{subsection.2.3.1}
+\contentsline {section}{\numberline {II.3}\leavevmode {\color {blue}Banana Propellers: Les membres}}{5}{section.2.3}
+\contentsline {subsection}{\numberline {II.3.1}Tancrede Erulin : \emph {Adalcar}}{5}{subsection.2.3.1}
 \contentsline {subsection}{\numberline {II.3.2}David Lespine : \emph {Horang}}{5}{subsection.2.3.2}
 \contentsline {subsection}{\numberline {II.3.3}Fabien Tessier : \emph {Numb}}{6}{subsection.2.3.3}
 \contentsline {subsection}{\numberline {II.3.4}Eric Li : \emph {The Kid}}{6}{subsection.2.3.4}
 \contentsline {chapter}{\numberline {III}\leavevmode {\color {red}\emph {Structure du projet}}}{7}{chapter.3}
-\contentsline {section}{\numberline {III.1}\leavevmode {\color {blue}Environnement}}{7}{section.3.1}
+\contentsline {section}{\numberline {III.1}\leavevmode {\color {blue}Synopsis}}{7}{section.3.1}
+\contentsline {section}{\numberline {III.2}\leavevmode {\color {blue}Outils utilis\'es}}{7}{section.3.2}
+\contentsline {section}{\numberline {III.3}\leavevmode {\color {blue}Objectif du projet}}{8}{section.3.3}
+\contentsline {subsection}{\numberline {III.3.1}Travailler en groupe}{8}{subsection.3.3.1}
+\contentsline {subsection}{\numberline {III.3.2}Tenir les d\'elais}{8}{subsection.3.3.2}
+\contentsline {subsection}{\numberline {III.3.3}S'adapter}{8}{subsection.3.3.3}
+\contentsline {section}{\numberline {III.4}\leavevmode {\color {blue}Plan du projet}}{9}{section.3.4}
+\contentsline {chapter}{\numberline {IV}\leavevmode {\color {red}\emph {Organisation et Budget}}}{12}{chapter.4}
+\contentsline {section}{\numberline {IV.1}\leavevmode {\color {blue}Organisation du groupe}}{12}{section.4.1}
+\contentsline {section}{\numberline {IV.2}\leavevmode {\color {blue}Planning pour les soutenances}}{13}{section.4.2}
+\contentsline {section}{\numberline {IV.3}\leavevmode {\color {blue}Budget}}{13}{section.4.3}
+\contentsline {chapter}{\numberline {V}\leavevmode {\color {red}\emph {Conclusion}}}{14}{chapter.5}
